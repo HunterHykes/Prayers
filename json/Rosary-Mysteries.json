@@ -1,0 +1,48 @@
+{
+  "mysteries": [
+    {
+      "set": "Joyful Mysteries",
+      "days": ["Monday", "Saturday"],
+      "mysteries": [
+        { "name": "The Annunciation", "scripture": "Luke 1:26-38" },
+        { "name": "The Visitation", "scripture": "Luke 1:39-56" },
+        { "name": "The Nativity", "scripture": "Luke 2:1-20" },
+        { "name": "The Presentation", "scripture": "Luke 2:22-40" },
+        { "name": "The Finding in the Temple", "scripture": "Luke 2:41-50" }
+      ]
+    },
+    {
+      "set": "Sorrowful Mysteries",
+      "days": ["Tuesday", "Friday"],
+      "mysteries": [
+        { "name": "The Agony in the Garden", "scripture": "Matthew 26:36-46" },
+        { "name": "The Scourging at the Pillar", "scripture": "Matthew 27:26" },
+        { "name": "The Crowning with Thorns", "scripture": "Matthew 27:27-31" },
+        { "name": "The Carrying of the Cross", "scripture": "Luke 23:26-32" },
+        { "name": "The Crucifixion", "scripture": "Luke 23:33-46" }
+      ]
+    },
+    {
+      "set": "Glorious Mysteries",
+      "days": ["Wednesday", "Sunday"],
+      "mysteries": [
+        { "name": "The Resurrection", "scripture": "Luke 24:1-12" },
+        { "name": "The Ascension", "scripture": "Luke 24:50-53" },
+        { "name": "The Descent of the Holy Spirit", "scripture": "Acts 2:1-13" },
+        { "name": "The Assumption", "scripture": "Revelation 12:1" },
+        { "name": "The Coronation of Mary", "scripture": "Revelation 12:1" }
+      ]
+    },
+    {
+      "set": "Luminous Mysteries",
+      "days": ["Thursday"],
+      "mysteries": [
+        { "name": "The Baptism of Jesus", "scripture": "Matthew 3:13-17" },
+        { "name": "The Wedding at Cana", "scripture": "John 2:1-12" },
+        { "name": "The Proclamation of the Kingdom", "scripture": "Mark 1:15" },
+        { "name": "The Transfiguration", "scripture": "Luke 9:28-36" },
+        { "name": "The Institution of the Eucharist", "scripture": "Luke 22:19-20" }
+      ]
+    }
+  ]
+}

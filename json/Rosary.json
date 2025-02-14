@@ -1,0 +1,44 @@
+{
+  "rosary_sequence": [
+    {
+      "type": "Crucifix",
+      "prayer": "Apostles' Creed",
+      "repetitions": 1
+    },
+    {
+      "type": "Large Bead",
+      "prayer": "Our Father",
+      "repetitions": 1
+    },
+    {
+      "type": "Small Bead",
+      "prayer": "Hail Mary",
+      "repetitions": 3
+    },
+    {
+      "type": "Large Bead",
+      "prayer": "Glory Be",
+      "repetitions": 1
+    },
+    {
+      "type": "Large Bead",
+      "prayer": "Fatima Prayer",
+      "repetitions": 1
+    },
+    {
+      "type": "Decade",
+      "prayers": [
+        { "prayer": "Our Father", "repetitions": 1 },
+        { "prayer": "Hail Mary", "repetitions": 10 },
+        { "prayer": "Glory Be", "repetitions": 1 },
+        { "prayer": "Fatima Prayer", "repetitions": 1 }
+      ],
+      "repetitions": 5
+    },
+    {
+      "type": "Large Bead",
+      "prayer": "Hail Holy Queen",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "prayers": [
+    {
+      "name": "Apostles' Creed",
+      "text": "I believe in God, the Father Almighty, Creator of heaven and earth...",
+      "language": "English"
+    },
+    {
+      "name": "Apostles' Creed",
+      "text": "Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae...",
+      "language": "Latin"
+    },
+    {
+      "name": "Our Father",
+      "text": "Our Father, who art in heaven, hallowed be Thy name...",
+      "language": "English"
+    },
+    {
+      "name": "Our Father",
+      "text": "Pater noster, qui es in caelis, sanctificetur nomen tuum...",
+      "language": "Latin"
+    },
+    {
+      "name": "Hail Mary",
+      "text": "Hail, Mary, full of grace,\nthe Lord is with thee.\nBlessed art thou amongst women\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death.\nAmen.",
+      "language": "English"
+    },
+    {
+      "name": "Hail Mary",
+      "text": "Ave Maria, gratia plena, Dominus tecum...",
+      "language": "Latin"
+    },
+    {
+      "name": "Glory Be",
+      "text": "Glory be to the Father, and to the Son, and to the Holy Spirit...",
+      "language": "English"
+    },
+    {
+      "name": "Glory Be",
+      "text": "Gloria Patri, et Filio, et Spiritui Sancto...",
+      "language": "Latin"
+    },
+    {
+      "name": "Fatima Prayer",
+      "text": "O my Jesus, forgive us our sins, save us from the fires of hell...",
+      "language": "English"
+    },
+    {
+      "name": "Fatima Prayer",
+      "text": "Domine Iesu, dimitte nobis debita nostra, libera nos ab igne inferni...",
+      "language": "Latin"
+    },
+    {
+      "name": "Hail Holy Queen",
+      "text": "Hail, Holy Queen, Mother of Mercy, our life, our sweetness, and our hope...",
+      "language": "English"
+    },
+    {
+      "name": "Hail Holy Queen",
+      "text": "Salve, Regina, mater misericordiæ, vita, dulcedo, et spes nostra...",
+      "language": "Latin"
+    },
+    {
+      "name": "St. Michael Prayer",
+      "text": "St. Michael the Archangel, defend us in battle...",
+      "language": "English"
+    },
+    {
+      "name": "St. Michael Prayer",
+      "text": "Sancte Michael Archangele, defende nos in proelio...",
+      "language": "Latin"
+    }
+  ]
+}
