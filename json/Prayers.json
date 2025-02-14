@@ -6,7 +6,7 @@
       "language": "English"
     },
     {
-      "name": "Apostles' Creed",
+      "name": "Apostles' Credo",
       "text": "Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae...",
       "language": "Latin"
     },
@@ -16,7 +16,7 @@
       "language": "English"
     },
     {
-      "name": "Our Father",
+      "name": "Pater Noster",
       "text": "Pater noster, qui es in caelis, sanctificetur nomen tuum...",
       "language": "Latin"
     },
@@ -26,7 +26,7 @@
       "language": "English"
     },
     {
-      "name": "Hail Mary",
+      "name": "Ave Maria",
       "text": "Ave Maria, gratia plena, Dominus tecum...",
       "language": "Latin"
     },
@@ -36,7 +36,7 @@
       "language": "English"
     },
     {
-      "name": "Glory Be",
+      "name": "Gloria",
       "text": "Gloria Patri, et Filio, et Spiritui Sancto...",
       "language": "Latin"
     },
@@ -46,7 +46,7 @@
       "language": "English"
     },
     {
-      "name": "Fatima Prayer",
+      "name": "Fatima",
       "text": "Domine Iesu, dimitte nobis debita nostra, libera nos ab igne inferni...",
       "language": "Latin"
     },
@@ -56,7 +56,7 @@
       "language": "English"
     },
     {
-      "name": "Hail Holy Queen",
+      "name": "Salve Regina",
       "text": "Salve, Regina, mater misericordiæ, vita, dulcedo, et spes nostra...",
       "language": "Latin"
     },
@@ -66,7 +66,7 @@
       "language": "English"
     },
     {
-      "name": "St. Michael Prayer",
+      "name": "Sancte Michael",
       "text": "Sancte Michael Archangele, defende nos in proelio...",
       "language": "Latin"
     }
