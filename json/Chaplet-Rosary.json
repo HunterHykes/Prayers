@@ -4,36 +4,35 @@
       "prayer": "Apostles' Creed",
       "type": "crucifix",
       "repetitions": 1,
-      "subsegments" : null
+      "chapletSubsegments" : null
     },
     {
       "prayer": "Our Father",
       "type": "large bead",
       "repetitions": 1,
-      "subsegments" : null
+      "chapletSubsegments" : null
     },
     {
       "prayer": "Hail Mary",
       "type": "small bead",
       "repetitions": 3,
-      "subsegments" : null
+      "chapletSubsegments" : null
     },
     {
       "prayer": "Glory Be",
       "type": "none",
       "repetitions": 1,
-      "subsegments" : null
-    },
-    {
-      "prayer": "Our Father",
-      "type": "large bead",
-      "repetitions": 1,
-      "subsegments" : null
+      "chapletSubsegments" : null
     },
     {
       "prayer": null,
-      "type": null,
-      "subsegments": [
+      "type": "sequence",
+      "chapletSubsegments": [
+        {
+          "prayer": "Our Father",
+          "type": "large bead",
+          "repetitions": 1
+        },
         {
           "prayer": "Hail Mary",
           "type": "small bead",
@@ -56,13 +55,13 @@
       "prayer": "Hail Holy Queen",
       "type": "none",
       "repetitions": 1,
-      "subsegments" : null
+      "chapletSubsegments" : null
     },
     {
       "prayer": "St. Michael Prayer",
       "type": "none",
       "repetitions": 1,
-      "subsegments" : null
+      "chapletSubsegments" : null
     }
   ]
 }
