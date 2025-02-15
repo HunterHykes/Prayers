@@ -16,7 +16,7 @@
       "language": "English"
     },
     {
-      "name": "Apostles' Credo",
+      "name": "Apostles' Creed",
       "text": "Credo in Deum, Patrem omnipotentem,\nCreatorem caeli et terrae,\net in Iesum Christum, Filium eius unicum, Dominum nostrum,\nqui conceptus est de Spiritu Sancto,\nnatus ex Maria Virgine,\npassus sub Pontio Pilato,\ncrucifixus, mortuus et sepultus;\ndescendit ad inferos;\ntertia die resurrexit a mortuis;\nascendit ad caelos,\nsedet ad dexteram Dei Patris omnipotentis;\ninde venturus est iudicare vivos et mortuos.\n\nCredo in Spiritum Sanctum,\nsanctam Ecclesiam catholicam,\nsanctorum communionem,\nremissionem peccatorum,\ncarnis resurrectionem,\nvitam aeternam.\nAmen.",
       "language": "Latin"
     },
@@ -26,7 +26,7 @@
       "language": "English"
     },
     {
-      "name": "Pater Noster",
+      "name": "Our Father",
       "text": "Pater noster, qui es in caelis,\nsanctificetur nomen tuum.\nAdveniat regnum tuum.\nFiat voluntas tua,\nsicut in caelo, et in terra.\n\nPanem nostrum quotidianum da nobis hodie,\net dimitte nobis debita nostra,\nsicut et nos dimittimus debitoribus nostris.\nEt ne nos inducas in tentationem,\nsed libera nos a malo.\nAmen.",
       "language": "Latin"
     },
@@ -36,7 +36,7 @@
       "language": "English"
     },
     {
-      "name": "Ave Maria",
+      "name": "Hail Mary",
       "text": "Ave Maria, gratia plena,\nDominus tecum.\nBenedicta tu in mulieribus,\net benedictus fructus ventris tui, Iesus.\n\nSancta Maria, Mater Dei,\nora pro nobis peccatoribus,\nnunc et in hora mortis nostrae.\nAmen.",
       "language": "Latin"
     },
@@ -46,7 +46,7 @@
       "language": "English"
     },
     {
-      "name": "Gloria",
+      "name": "Glory Be",
       "text": "Gloria Patri, et Filio, et Spiritui Sancto,\nsicut erat in principio, et nunc, et semper,\net in saecula saeculorum.\nAmen.",
       "language": "Latin"
     },
@@ -56,7 +56,7 @@
       "language": "English"
     },
     {
-      "name": "Fatima",
+      "name": "Fatima Prayer",
       "text": "Domine Iesu, dimitte nobis debita nostra,\nlibera nos ab igne inferni,\nconduc in caelum omnes animas,\npraesertim eas, quae maxime indigent misericordia tua.\nAmen.",
       "language": "Latin"
     },
@@ -66,7 +66,7 @@
       "language": "English"
     },
     {
-      "name": "Salve Regina",
+      "name": "Hail Holy Queen",
       "text": "Salve, Regina, mater misericordiæ,\nvita, dulcedo et spes nostra, salve.\nAd te clamamus,\nexsules, filiæ Hevæ.\nAd te suspiramus, gementes et flentes\nin hac lacrimarum valle.\nEia ergo, Advocata nostra,\nillos tuos misericordes oculos ad nos converte.\nEt Iesum, benedictum fructum ventris tui,\nnobis post hoc exsilium ostende.\nO clemens, O pia, O dulcis Virgo Maria.",
       "language": "Latin"
     },
@@ -76,7 +76,7 @@
       "language": "English"
     },
     {
-      "name": "Sancte Michael",
+      "name": "St. Michael Prayer",
       "text": "Sancte Michael Archangele,\ndefende nos in proelio;\ncontra nequitiam et insidias diaboli esto praesidium.\nImperet illi Deus, supplices deprecamur:\ntuque, Princeps militiae caelestis,\nSatanam aliosque spiritus malignos,\nqui ad perditionem animarum pervagantur in mundo,\ndivina virtute, in infernum detrude.\nAmen.",
       "language": "Latin"
     }
