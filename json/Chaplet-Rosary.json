@@ -31,6 +31,8 @@
       "subsegments" : null
     },
     {
+      "prayer": null,
+      "type": null,
       "subsegments": [
         {
           "prayer": "Hail Mary",
