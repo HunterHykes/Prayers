@@ -1,0 +1,12 @@
+{
+  "chaplets": [
+    {
+      "name": "Rosary",
+      "json": "Chaplet-Rosary.json"
+    },
+    {
+      "name": "Divine Mercy Chaplet",
+      "json": "Chaplet-Divine-Mercy.json"
+    }
+  ]
+}

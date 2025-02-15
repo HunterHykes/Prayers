@@ -1,0 +1,79 @@
+{
+  "chapletSegments": [
+    {
+      "prayer": "Sign of the Cross",
+      "type": "none",
+      "repetitions": 1,
+      "chapletSubsegments" : null
+    },
+    {
+      "prayer": null,
+      "type": "large bead",
+      "chapletSubsegments": [
+        {
+          "prayer": "St. Faustina's Prayer for Sinners",
+          "type": "none",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Divine Mercy, Opening Prayer",
+          "type": "none",
+          "repetitions": 1
+        },
+        {
+          "prayer": "O Blood and Water",
+          "type": "none",
+          "repetitions": 3
+        }
+      ],
+      "repetitions": 1
+    },
+    {
+      "prayer": "Our Father",
+      "type": "small bead",
+      "repetitions": 1,
+      "chapletSubsegments" : null
+    },
+    {
+      "prayer": "Hail Mary",
+      "type": "none",
+      "repetitions": 1,
+      "chapletSubsegments" : null
+    },
+    {
+      "prayer": "Apostles' Creed",
+      "type": "none",
+      "repetitions": 1,
+      "chapletSubsegments" : null
+    },
+    {
+      "prayer": null,
+      "type": "sequence",
+      "chapletSubsegments": [
+        {
+          "prayer": "Eternal Father",
+          "type": "large bead",
+          "repetitions": 1
+        },
+        {
+          "prayer": "For the Sake of His Sorrowful Passion",
+          "type": "small bead",
+          "repetitions": 10
+        }
+      ],
+      "repetitions": 5
+    },
+    {
+      "prayer": "Holy God (Trisagion)",
+      "type": "none",
+      "repetitions": 3,
+      "chapletSubsegments" : null
+    },
+    {
+      "prayer": "Divine Mercy, Closing Prayer",
+      "type": "none",
+      "repetitions": 1,
+      "chapletSubsegments" : null
+    }
+  ]
+}
