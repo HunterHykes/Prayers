@@ -2,7 +2,7 @@
   "chaplets": [
     {
       "name": "Rosary",
-      "json": "Chaplet-Rosary.json"
+      "json": "Chaplet-Rosary-Set.json"
     },
     {
       "name": "Divine Mercy Chaplet",
