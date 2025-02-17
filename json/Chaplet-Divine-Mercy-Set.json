@@ -13,17 +13,20 @@
         {
           "prayer": "St. Faustina's Prayer for Sinners",
           "type": "none",
-          "repetitions": 1
+          "repetitions": 1,
+          "subsets" : null
         },
         {
           "prayer": "Divine Mercy, Opening Prayer",
           "type": "none",
-          "repetitions": 1
+          "repetitions": 1,
+          "subsets" : null
         },
         {
           "prayer": "O Blood and Water",
           "type": "none",
-          "repetitions": 3
+          "repetitions": 3,
+          "subsets" : null
         }
       ],
       "repetitions": 1
@@ -53,12 +56,14 @@
         {
           "prayer": "Eternal Father",
           "type": "large bead",
-          "repetitions": 1
+          "repetitions": 1,
+          "subsets" : null
         },
         {
           "prayer": "For the Sake of His Sorrowful Passion",
           "type": "small bead",
-          "repetitions": 10
+          "repetitions": 10,
+          "subsets" : null
         }
       ],
       "repetitions": 5
