@@ -1,6 +1,12 @@
 {
   "prayerSets": [
     {
+      "prayer": "Sign of the Cross",
+      "type": "none",
+      "repetitions": 1,
+      "subsets" : null
+    },
+    {
       "prayer": "Apostles' Creed",
       "type": "crucifix",
       "repetitions": 1,
@@ -40,12 +46,12 @@
         },
         {
           "prayer": "Glory Be",
-          "type": "none",
+          "type": "chain",
           "repetitions": 1
         },
         {
           "prayer": "Fatima Prayer",
-          "type": "none",
+          "type": "chain",
           "repetitions": 1
         }
       ],
@@ -59,6 +65,12 @@
     },
     {
       "prayer": "St. Michael Prayer",
+      "type": "none",
+      "repetitions": 1,
+      "subsets" : null
+    },
+    {
+      "prayer": "Sign of the Cross",
       "type": "none",
       "repetitions": 1,
       "subsets" : null
