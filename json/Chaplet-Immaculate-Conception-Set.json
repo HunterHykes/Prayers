@@ -13,12 +13,6 @@
       "subsets" : null
     },
     {
-      "prayer": "First Intention",
-      "type": "chain",
-      "repetitions": 1,
-      "subsets" : null
-    },
-    {
       "prayer": null,
       "type": "sequence",
       "subsets": [
@@ -45,77 +39,7 @@
           "repetitions": 4
         }
       ],
-      "repetitions": 1
-    },
-    {
-      "prayer": "Second Intention",
-      "type": "chain",
-      "repetitions": 1,
-      "subsets" : null
-    },
-    {
-      "prayer": null,
-      "type": "sequence",
-      "subsets": [
-        {
-          "prayer": "Our Father",
-          "type": "large bead",
-          "repetitions": 1
-        },
-        {
-          "prayer": null,
-          "type": "small bead",
-          "subsets": [
-            {
-              "prayer": "Hail Mary",
-              "type": "none",
-              "repetitions": 1
-            },
-            {
-              "prayer": "Immaculate Conception Prayer",
-              "type": "none",
-              "repetitions": 1
-            }
-          ],
-          "repetitions": 4
-        }
-      ],
-      "repetitions": 1
-    },
-    {
-      "prayer": "Third Intention",
-      "type": "chain",
-      "repetitions": 1,
-      "subsets" : null
-    },
-    {
-      "prayer": null,
-      "type": "sequence",
-      "subsets": [
-        {
-          "prayer": "Our Father",
-          "type": "large bead",
-          "repetitions": 1
-        },
-        {
-          "prayer": null,
-          "type": "small bead",
-          "subsets": [
-            {
-              "prayer": "Hail Mary",
-              "type": "none",
-              "repetitions": 1
-            },
-            {
-              "prayer": "Immaculate Conception Prayer",
-              "type": "none",
-              "repetitions": 1
-            }
-          ],
-          "repetitions": 4
-        }
-      ],
-      "repetitions": 1
+      "repetitions": 3
     },
     {
       "prayer": "Glory Be",

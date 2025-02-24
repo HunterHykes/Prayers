@@ -2,27 +2,27 @@
   "prayers": [
     {
       "name": "Immaculate Conception Prayer",
-      "text": "Blessed be the pure, most Holy and Immaculate Conception of the Blessed Virgin Mary.",
+      "text": "Blessed be the pure, most Holy\nand Immaculate Conception of the Blessed Virgin Mary.",
       "language": "English"
     },
     {
       "name": "Immaculate Conception Prayer",
-      "text": "Benedicta pura, sanctissima et immaculata Conceptio Beatae Mariae Virginis.",
+      "text": "Benedicta pura, sanctissima et\nimmaculata Conceptio Beatae Mariae Virginis.",
       "language": "Latin"
     },
     {
       "name": "First Intention",
-      "text": "I thank Thee, O Eternal Father, for having by Thy Almighty power preserved Mary, most holy, Thy Blessed Daughter, from the stain of original sin.",
+      "text": "I thank Thee, O Eternal Father,\nfor having by Thy Almighty power\npreserved Mary, most holy, Thy Blessed Daughter, \nrom the stain of original sin.",
       "language": "English"
     },
     {
       "name": "Second Intention",
-      "text": "I thank Thee, O Eternal Son, for having by Thy wisdom preserved Mary, most holy, Thy Blessed Mother, from the stain of original sin.",
+      "text": "I thank Thee, O Eternal Son,\nfor having by Thy wisdom\npreserved Mary, most holy, Thy Blessed Mother,\nfrom the stain of original sin.",
       "language": "English"
     },
     {
       "name": "Third Intention",
-      "text": "I thank Thee, O Holy Spirit Eternal, for having by Thy love preserved Mary, most holy, Thy Blessed Spouse, from the stain of original sin.",
+      "text": "I thank Thee, O Holy Spirit Eternal,\nfor having by Thy love\npreserved Mary, most holy, Thy Blessed Spouse,\nfrom the stain of original sin.",
       "language": "English"
     },
   ]
