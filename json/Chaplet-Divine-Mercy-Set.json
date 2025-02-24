@@ -2,7 +2,7 @@
   "prayerSets": [
     {
       "prayer": "Sign of the Cross",
-      "type": "none",
+      "type": "crucifix",
       "repetitions": 1,
       "subsets" : null
     },
@@ -39,13 +39,13 @@
     },
     {
       "prayer": "Hail Mary",
-      "type": "none",
+      "type": "small bead",
       "repetitions": 1,
       "subsets" : null
     },
     {
       "prayer": "Apostles' Creed",
-      "type": "none",
+      "type": "small bead",
       "repetitions": 1,
       "subsets" : null
     },

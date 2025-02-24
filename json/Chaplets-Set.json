@@ -9,6 +9,11 @@
       "id": 1,
       "name": "Divine Mercy Chaplet",
       "json": "Chaplet-Divine-Mercy-Set.json"
+    },
+    {
+      "id": 2,
+      "name": "Immaculate Conception Chaplet",
+      "json": "Chaplet-Immaculate-Conception-Set.json"
     }
   ]
 }
