@@ -27,12 +27,12 @@
           "subsets": [
             {
               "prayer": "Hail Mary",
-              "type": "none",
+              "type": "small bead",
               "repetitions": 1
             },
             {
               "prayer": "Immaculate Conception Prayer",
-              "type": "none",
+              "type": "small bead",
               "repetitions": 1
             }
           ],
