@@ -4,7 +4,25 @@
       "id": 0,
       "name": "Rosary",
       "json": "Chaplet-Rosary-Set.json",
-      "prayers": null
+      "prayers": null,
+      "mysteries": [
+        {
+          "name": "Joyful",
+          "json": "Rosary-Mysteries-Joyful.json"
+        },
+        {
+          "name": "Luminous",
+          "json": "Rosary-Mysteries-Luminous.json"
+        },
+        {
+          "name": "Sorrowful",
+          "json": "Rosary-Mysteries-Sorrowful.json"
+        },
+        {
+          "name": "Glorious",
+          "json": "Rosary-Mysteries-Glorious.json"
+        }
+      ]
     },
     {
       "id": 1,
