@@ -8,15 +8,21 @@
     },
     {
       "id": 1,
-      "name": "Divine Mercy Chaplet",
+      "name": "Chaplet of Divine Mercy",
       "json": "Chaplet-Divine-Mercy-Set.json",
       "prayers": "Prayers-Divine-Mercy.json"
     },
     {
       "id": 2,
-      "name": "Immaculate Conception Chaplet",
+      "name": "Chaplet of the Immaculate Conception",
       "json": "Chaplet-Immaculate-Conception-Set.json",
       "prayers": "Prayers-Immaculate-Conception.json"
+    },
+    {
+      "id": 3,
+      "name": "Chaplet of the Five Holy Wounds",
+      "json": "Chaplet-Holy-Wounds-Set.json",
+      "prayers": "Prayers-Five-Holy-Wounds.json"
     }
   ]
 }
