@@ -3,17 +3,20 @@
     {
       "id": 0,
       "name": "Rosary",
-      "json": "Chaplet-Rosary-Set.json"
+      "json": "Chaplet-Rosary-Set.json",
+      "prayers": null
     },
     {
       "id": 1,
       "name": "Divine Mercy Chaplet",
-      "json": "Chaplet-Divine-Mercy-Set.json"
+      "json": "Chaplet-Divine-Mercy-Set.json",
+      "prayers": "Prayers-Divine-Mercy.json"
     },
     {
       "id": 2,
       "name": "Immaculate Conception Chaplet",
-      "json": "Chaplet-Immaculate-Conception-Set.json"
+      "json": "Chaplet-Immaculate-Conception-Set.json",
+      "prayers": "Prayers-ImmaculateConception.json"
     }
   ]
 }
