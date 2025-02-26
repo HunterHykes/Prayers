@@ -15,6 +15,7 @@
     {
       "prayer": null,
       "type": "sequence",
+      "intentions": ["First Intention", "Second Intention", "Third Intention"],
       "subsets": [
         {
           "prayer": "Our Father",
