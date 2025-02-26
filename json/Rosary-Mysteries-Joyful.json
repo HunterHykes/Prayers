@@ -1,8 +1,8 @@
 {
   "mysteries": [
     {
-      "name": "The Baptism in the Jordan",
-      "description": "Jesus is baptized by John, revealing His divine mission.",
+      "name": "The Annunciation",
+      "description": "The Angel Gabriel announces to Mary that she will conceive Jesus.",
       "reflections": [
         "",
         "",
@@ -17,8 +17,8 @@
       ]
     },
     {
-      "name": "The Wedding at Cana",
-      "description": "Jesus performs His first miracle, turning water into wine.",
+      "name": "The Visitation",
+      "description": "Mary visits Elizabeth, who proclaims her blessed among women.",
       "reflections": [
         "",
         "",
@@ -33,8 +33,8 @@
       ]
     },
     {
-      "name": "The Proclamation of the Kingdom",
-      "description": "Jesus announces the Kingdom of God and calls for repentance.",
+      "name": "The Nativity",
+      "description": "Jesus is born in Bethlehem, laid in a manger.",
       "reflections": [
         "",
         "",
@@ -49,8 +49,8 @@
       ]
     },
     {
-      "name": "The Transfiguration",
-      "description": "Jesus is revealed in glory to Peter, James, and John.",
+      "name": "The Presentation in the Temple",
+      "description": "Mary and Joseph present Jesus in the Temple, fulfilling the law.",
       "reflections": [
         "",
         "",
@@ -65,8 +65,8 @@
       ]
     },
     {
-      "name": "The Institution of the Eucharist",
-      "description": "Jesus offers His Body and Blood at the Last Supper.",
+      "name": "The Finding in the Temple",
+      "description": "Mary and Joseph find Jesus teaching in the Temple at age twelve.",
       "reflections": [
         "",
         "",
