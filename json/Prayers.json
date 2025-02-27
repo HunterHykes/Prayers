@@ -2,7 +2,7 @@
   "prayers": [
     {
       "name": "Sign of the Cross",
-      "text": "In the name of the Father,\nand of the Son,\nand of the Holy Spirit,\nAmen.",
+      "text": "In the name of the Father,\nand of the Son,\nand of the Holy Spirit,\n\nAmen.",
       "language": "English"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "name": "Hail Mary",
-      "text": "Hail, Mary, full of grace,\nthe Lord is with thee.\nBlessed art thou amongst women\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death.\nAmen.",
+      "text": "Hail, Mary,\nfull of grace,\nthe Lord is with thee.\nBlessed art thou amongst women\nand blessed is the fruit of thy womb,\nJesus.\nHoly Mary,\nMother of God,\npray for us sinners,\nnow and at the hour of our death.\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Hail Mary",
-      "text": "Ave Maria, gratia plena,\nDominus tecum.\nBenedicta tu in mulieribus,\net benedictus fructus ventris tui, Iesus.\n\nSancta Maria, Mater Dei,\nora pro nobis peccatoribus,\nnunc et in hora mortis nostrae.\nAmen.",
+      "text": "Ave Maria,\ngratia plena,\nDominus tecum.\nBenedicta tu in mulieribus,\net benedictus fructus ventris tui,\nIesus.\n\nSancta Maria,\nMater Dei,\nora pro nobis peccatoribus,\nnunc et in hora mortis nostrae.\n\nAmen.",
       "language": "Latin"
     },
     {
       "name": "Glory Be",
-      "text": "Glory be to the Father\nand to the Son\nand to the Holy Spirit,\nas it was in the beginning\nis now, and ever shall be\nworld without end.\nAmen.",
+      "text": "Glory be to the Father,\nand to the Son,\nand to the Holy Spirit.\nAs it was in the beginning\nis now, and ever shall be\nworld without end.\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Glory Be",
-      "text": "Gloria Patri, et Filio, et Spiritui Sancto,\nsicut erat in principio, et nunc, et semper,\net in saecula saeculorum.\nAmen.",
+      "text": "Gloria Patri,\net Filio,\net Spiritui Sancto.\nSicut erat in principio, et nunc, et semper,\net in saecula saeculorum.\n\nAmen.",
       "language": "Latin"
     },
     {
