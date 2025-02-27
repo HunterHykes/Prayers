@@ -79,6 +79,16 @@
       "name": "St. Michael Prayer",
       "text": "Sancte Michael Archangele,\ndefende nos in proelio;\ncontra nequitiam et insidias diaboli esto praesidium.\nImperet illi Deus, supplices deprecamur:\ntuque, Princeps militiae caelestis,\nSatanam aliosque spiritus malignos,\nqui ad perditionem animarum pervagantur in mundo,\ndivina virtute, in infernum detrude.\nAmen.",
       "language": "Latin"
+    },
+    {
+      "name": "The Memorare",
+      "text": "Remember,\nO most gracious Virgin Mary,\nthat never was it known\nthat anyone who fled to thy protection,\nimplored thy help,\nor sought thine intercession\nwas left unaided.\n\nInspired by this confidence,\nI fly unto thee,\nO Virgin of virgins, my mother;\nto thee do I come,\nefore thee I stand,\nsinful and sorrowful.\nO Mother of the Word Incarnate,\ndespise not my petitions,\nbut in thy mercy hear and answer me.\n\nAmen.",
+      "language": "English"
+    },
+    {
+      "name": "The Memorare",
+      "text": "Memorare,\nO piissima Virgo Maria,\nnon esse auditum a saeculo,\nquemquam ad tua currentem praesidia,\ntua implorantem auxilia,\ntua petentem suffragia,\nsse derelictum.\n\nEgo tali animatus confidentia,\nad te, Virgo Virginum, Mater,\ncurro, ad te venio,\ncoram te gemens peccator assisto.\nNoli, Mater Verbi, verba mea despicere;\nsed audi propitia et exaudi.\n\nAmen.",
+      "language": "Latin"
     }
   ]
 }

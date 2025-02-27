@@ -5,7 +5,7 @@
       "name": "Rosary",
       "json": "Chaplet-Rosary-Set.json",
       "prayers": null,
-      "mysteries": [
+      "mysterySets": [
         {
           "name": "Joyful",
           "json": "Rosary-Mysteries-Joyful.json"
