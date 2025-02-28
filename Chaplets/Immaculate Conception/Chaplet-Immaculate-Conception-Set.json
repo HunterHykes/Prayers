@@ -2,12 +2,6 @@
   "prayerSets": [
     {
       "prayer": "Sign of the Cross",
-      "type": "none",
-      "repetitions": 1,
-      "subsets" : null
-    },
-    {
-      "prayer": "Introductory Prayers",
       "type": "medal",
       "repetitions": 1,
       "subsets" : null

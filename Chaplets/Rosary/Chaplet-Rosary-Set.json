@@ -1,16 +1,21 @@
 {
   "prayerSets": [
     {
-      "prayer": "Sign of the Cross",
-      "type": "none",
-      "repetitions": 1,
-      "subsets" : null
-    },
-    {
-      "prayer": "Apostles' Creed",
+      "prayer": null,
       "type": "crucifix",
+      "subsets": [
+        {
+          "prayer": "Sign of the Cross",
+          "type": "crucifix",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Apostles' Creed",
+          "type": "crucifix",
+          "repetitions": 1
+        }
+      ],
       "repetitions": 1,
-      "subsets" : null
     },
     {
       "prayer": "Our Father",
