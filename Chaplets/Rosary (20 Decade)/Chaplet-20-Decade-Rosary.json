@@ -1,0 +1,84 @@
+{
+  "prayerSets": [
+    {
+      "prayer": null,
+      "type": "crucifix",
+      "subsets": [
+        {
+          "prayer": "Sign of the Cross",
+          "type": "crucifix",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Apostles' Creed",
+          "type": "crucifix",
+          "repetitions": 1
+        }
+      ],
+      "repetitions": 1,
+    },
+    {
+      "prayer": "Our Father",
+      "type": "large bead",
+      "repetitions": 1,
+      "subsets" : null
+    },
+    {
+      "prayer": "Hail Mary",
+      "type": "small bead",
+      "repetitions": 3,
+      "subsets" : null
+    },
+    {
+      "prayer": "Glory Be",
+      "type": "large bead",
+      "repetitions": 1,
+      "subsets" : null
+    },
+    {
+      "prayer": null,
+      "type": "sequence",
+      "subsets": [
+        {
+          "prayer": "Our Father",
+          "type": "large bead",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Hail Mary",
+          "type": "small bead",
+          "repetitions": 10
+        },
+        {
+          "prayer": "Glory Be",
+          "type": "chain",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Fatima Prayer",
+          "type": "chain",
+          "repetitions": 1
+        }
+      ],
+      "repetitions": 20
+    },
+    {
+      "prayer": "Hail Holy Queen",
+      "type": "none",
+      "repetitions": 1,
+      "subsets" : null
+    },
+    {
+      "prayer": "St. Michael Prayer",
+      "type": "none",
+      "repetitions": 1,
+      "subsets" : null
+    },
+    {
+      "prayer": "Sign of the Cross",
+      "type": "none",
+      "repetitions": 1,
+      "subsets" : null
+    }
+  ]
+}

@@ -27,6 +27,19 @@
     },
     {
       "id": 1,
+      "name": "Rosary (20 Decade)",
+      "json": "Chaplet-Rosary-20-Decade.json",
+      "prayers": null,
+      "mysterySets": [
+        {
+          "name": "All",
+          "json": "Rosary-Mysteries-All.json"
+        }
+      ],
+      "imageURL": "https://sdcason.com/content/images/size/w1600/2022/08/DP356939-3.jpg"
+    },
+    {
+      "id": 2,
       "name": "Divine Mercy",
       "json": "Chaplet-Divine-Mercy.json",
       "prayers": "Prayers-Divine-Mercy.json",
@@ -34,7 +47,7 @@
       "imageURL": "https://sdcason.com/content/images/2022/10/Divine_Mercy.jpeg"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Immaculate Conception",
       "json": "Chaplet-Immaculate-Conception.json",
       "prayers": "Prayers-Immaculate-Conception.json",
@@ -42,7 +55,7 @@
       "imageURL": "https://sdcason.com/content/images/size/w1600/2022/12/303775rgsdl.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Five Holy Wounds",
       "json": "Chaplet-Five-Holy-Wounds.json",
       "prayers": "Prayers-Five-Holy-Wounds.json",
@@ -50,7 +63,7 @@
       "imageURL": "https://sdcason.com/content/images/size/w1200/2021/06/1996.26_o2-1.jpg"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "St. Michael",
       "json": "Chaplet-St.-Michael.json",
       "prayers": "Prayers-St.-Michael.json",

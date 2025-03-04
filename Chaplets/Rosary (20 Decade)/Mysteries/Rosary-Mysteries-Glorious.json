@@ -1,0 +1,89 @@
+{
+  "mysteries": [
+    {
+      "name": "The Resurrection",
+      "description": "Jesus rises from the dead on the third day.",
+      "imageURL": "https://sdcason.com/content/images/size/w1600/2021/03/00093301.jpg",
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "The Ascension",
+      "description": "Jesus ascends into Heaven forty days after His resurrection.",
+      "imageURL": "https://sdcason.com/content/images/size/w1200/2024/01/The-Ascension-of-the-Lord.jpg",
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "The Descent of the Holy Spirit",
+      "description": "The Holy Spirit descends upon the Apostles at Pentecost.",
+      "imageURL": "https://sdcason.com/content/images/size/w1200/2024/05/307304rgsdl.jpg",
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "The Assumption",
+      "description": "Mary is assumed body and soul into Heaven.",
+      "imageURL": "https://sdcason.com/content/images/size/w1200/2024/01/La-Asunci-n-de-la-Virgen.jpg",
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "The Coronation of Mary",
+      "description": "Mary is crowned Queen of Heaven and Earth.",
+      "imageURL": "https://sdcason.com/content/images/size/w1600/2021/05/00082701.jpg",
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
