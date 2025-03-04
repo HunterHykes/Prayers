@@ -52,8 +52,8 @@
     {
       "id": 4,
       "name": "St. Michael",
-      "json": "Chaplet-St.Michael-Set.json",
-      "prayers": "Prayers-St.Michael-Wounds.json",
+      "json": "Chaplet-St.-Michael-Set.json",
+      "prayers": "Prayers-St.-Michael-Wounds.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/size/w1200/2021/01/After_Guido_Reni_-_Saint_Michael-1.jpg"
     }
