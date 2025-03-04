@@ -1,0 +1,72 @@
+{
+  "prayerSets": [
+    {
+      "prayer": null,
+      "type": "medal",
+      "repetitions": 1,
+      "subsets" : [
+        {
+          "prayer": "Sign of the Cross",
+          "type": "medal",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Entrance Antiphon, Psalm 70",
+          "type": "medal",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Glory Be",
+          "type": "medal",
+          "repetitions": 1
+        }
+      ]
+    },
+    {
+      "prayer": null,
+      "type": "sequence",
+      "intentions": ["First Salutation", "Second Salutation", "Third Salutation", "Fourth Salutation", "Fifth Salutation", "Sixth Salutation", "Seventh Salutation", "Eighth Salutation", "Ninth Salutation"],
+      "subsets": [
+        {
+          "prayer": "Our Father",
+          "type": "large bead",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Hail Mary",
+          "type": "small bead",
+          "repetitions": 3
+        }
+      ],
+      "repetitions": 9
+    },
+    {
+      "prayer": "Our Father",
+      "type": "small bead",
+      "repetitions": 4
+    },
+    {
+      "prayer": null,
+      "type": "none",
+      "subsets": [
+        {
+          "prayer": "O glorious prince...",
+          "type": "none",
+          "repetitions": 1
+        },
+        {
+          "prayer": "Almighty and Everlasting God...",
+          "type": "none",
+          "repetitions": 1
+        }
+      ],
+      "repetitions": 9
+    }
+    {
+      "prayer": "Sign of the Cross",
+      "type": "none",
+      "repetitions": 1,
+      "subsets" : null
+    }
+  ]
+}
