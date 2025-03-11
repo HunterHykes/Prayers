@@ -2,32 +2,32 @@
   "prayers": [
     {
       "name": "Sign of the Cross",
-      "text": "In the name of the Father,\nand of the Son,\nand of the Holy Spirit,\n\nAmen.",
+      "text": "✠\nIn the name of the Father,\nand of the Son,\nand of the Holy Spirit,\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Sign of the Cross",
-      "text": "In nomine Patris,\net Filii,\net Spiritus Sancti.\nAmen.",
+      "text": "✠\nIn nomine Patris,\net Filii,\net Spiritus Sancti.\n\nAmen.",
       "language": "Latin"
     },
     {
       "name": "Apostles' Creed",
-      "text": "I believe in God, the Father almighty,\nCreator of heaven and earth,\nand in Jesus Christ, his only Son, our Lord,\nwho was conceived by the Holy Spirit,\nborn of the Virgin Mary,\nsuffered under Pontius Pilate,\nwas crucified, died and was buried;\nhe descended into hell;\non the third day he rose again from the dead;\nhe ascended into heaven,\nand is seated at the right hand of God the Father almighty;\nfrom there he will come to judge the living and the dead.\n\nI believe in the Holy Spirit,\nthe holy catholic Church,\nthe communion of saints,\nthe forgiveness of sins,\nthe resurrection of the body,\nand life everlasting.\nAmen.",
+      "text": "I believe in God, the Father almighty,\nCreator of heaven and earth,\nand in Jesus Christ, his only Son, our Lord,\nwho was conceived by the Holy Spirit,\nborn of the Virgin Mary,\nsuffered under Pontius Pilate,\nwas crucified, died and was buried;\nhe descended into hell;\non the third day he rose again from the dead;\nhe ascended into heaven,\nand is seated at the right hand of God the Father almighty;\nfrom there he will come to judge the living and the dead.\n\nI believe in the Holy Spirit,\nthe holy catholic Church,\nthe communion of saints,\nthe forgiveness of sins,\nthe resurrection of the body,\nand life everlasting.\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Apostles' Creed",
-      "text": "Credo in Deum, Patrem omnipotentem,\nCreatorem caeli et terrae,\net in Iesum Christum, Filium eius unicum, Dominum nostrum,\nqui conceptus est de Spiritu Sancto,\nnatus ex Maria Virgine,\npassus sub Pontio Pilato,\ncrucifixus, mortuus et sepultus;\ndescendit ad inferos;\ntertia die resurrexit a mortuis;\nascendit ad caelos,\nsedet ad dexteram Dei Patris omnipotentis;\ninde venturus est iudicare vivos et mortuos.\n\nCredo in Spiritum Sanctum,\nsanctam Ecclesiam catholicam,\nsanctorum communionem,\nremissionem peccatorum,\ncarnis resurrectionem,\nvitam aeternam.\nAmen.",
+      "text": "Credo in Deum, Patrem omnipotentem,\nCreatorem caeli et terrae,\net in Iesum Christum, Filium eius unicum, Dominum nostrum,\nqui conceptus est de Spiritu Sancto,\nnatus ex Maria Virgine,\npassus sub Pontio Pilato,\ncrucifixus, mortuus et sepultus;\ndescendit ad inferos;\ntertia die resurrexit a mortuis;\nascendit ad caelos,\nsedet ad dexteram Dei Patris omnipotentis;\ninde venturus est iudicare vivos et mortuos.\n\nCredo in Spiritum Sanctum,\nsanctam Ecclesiam catholicam,\nsanctorum communionem,\nremissionem peccatorum,\ncarnis resurrectionem,\nvitam aeternam.\n\nAmen.",
       "language": "Latin"
     },
     {
       "name": "Our Father",
-      "text": "Our Father who art in heaven,\nhallowed be thy name.\nThy kingdom come.\nThy will be done \non earth, as it is in heaven.\nGive us this day \nour daily bread,\nand forgive us our trespasses, \nas we forgive those who trespass against us,\nand lead us not into temptation,\nbut deliver us from evil.\nAmen.",
+      "text": "Our Father who art in heaven,\nhallowed be thy name.\nThy kingdom come.\nThy will be done \non earth, as it is in heaven.\nGive us this day \nour daily bread,\nand forgive us our trespasses, \nas we forgive those who trespass against us,\nand lead us not into temptation,\nbut deliver us from evil.\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Our Father",
-      "text": "Pater noster, qui es in caelis,\nsanctificetur nomen tuum.\nAdveniat regnum tuum.\nFiat voluntas tua,\nsicut in caelo, et in terra.\n\nPanem nostrum quotidianum da nobis hodie,\net dimitte nobis debita nostra,\nsicut et nos dimittimus debitoribus nostris.\nEt ne nos inducas in tentationem,\nsed libera nos a malo.\nAmen.",
+      "text": "Pater noster, qui es in caelis,\nsanctificetur nomen tuum.\nAdveniat regnum tuum.\nFiat voluntas tua,\nsicut in caelo, et in terra.\n\nPanem nostrum quotidianum da nobis hodie,\net dimitte nobis debita nostra,\nsicut et nos dimittimus debitoribus nostris.\nEt ne nos inducas in tentationem,\nsed libera nos a malo.\n\nAmen.",
       "language": "Latin"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "name": "Fatima Prayer",
-      "text": "O My Jesus,\nforgive us our sins,\nsave us from the fires of hell,\nlead all souls to Heaven,\nespecially those in most need of Thy mercy.\nAmen",
+      "text": "O My Jesus,\nforgive us our sins,\nsave us from the fires of hell,\nlead all souls to Heaven,\nespecially those in most need of Thy mercy.\n\nAmen",
       "language": "English"
     },
     {
       "name": "Fatima Prayer",
-      "text": "Domine Iesu, dimitte nobis debita nostra,\nlibera nos ab igne inferni,\nconduc in caelum omnes animas,\npraesertim eas, quae maxime indigent misericordia tua.\nAmen.",
+      "text": "Domine Iesu, dimitte nobis debita nostra,\nlibera nos ab igne inferni,\nconduc in caelum omnes animas,\npraesertim eas, quae maxime indigent misericordia tua.\n\nAmen.",
       "language": "Latin"
     },
     {
@@ -72,12 +72,12 @@
     },
     {
       "name": "St. Michael Prayer",
-      "text": "Saint Michael Archangel, defend us in battle,\nbe our protection against the wickedness and snares of the devil;\nmay God rebuke him, we humbly pray; and do thou,\nO Prince of the heavenly host, by the power of God,\ncast into hell Satan and all the evil spirits who prowl through the world\nseeking the ruin of souls.\nAmen.",
+      "text": "Saint Michael Archangel, defend us in battle,\nbe our protection against the wickedness and snares of the devil;\nmay God rebuke him, we humbly pray; and do thou,\nO Prince of the heavenly host, by the power of God,\ncast into hell Satan and all the evil spirits who prowl through the world\nseeking the ruin of souls.\n\nAmen.",
       "language": "English"
     },
     {
       "name": "St. Michael Prayer",
-      "text": "Sancte Michael Archangele,\ndefende nos in proelio;\ncontra nequitiam et insidias diaboli esto praesidium.\nImperet illi Deus, supplices deprecamur:\ntuque, Princeps militiae caelestis,\nSatanam aliosque spiritus malignos,\nqui ad perditionem animarum pervagantur in mundo,\ndivina virtute, in infernum detrude.\nAmen.",
+      "text": "Sancte Michael Archangele,\ndefende nos in proelio;\ncontra nequitiam et insidias diaboli esto praesidium.\nImperet illi Deus, supplices deprecamur:\ntuque, Princeps militiae caelestis,\nSatanam aliosque spiritus malignos,\nqui ad perditionem animarum pervagantur in mundo,\ndivina virtute, in infernum detrude.\n\nAmen.",
       "language": "Latin"
     },
     {
