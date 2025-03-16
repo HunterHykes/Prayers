@@ -2,12 +2,12 @@
   "prayers": [
     {
       "name": "Sign of the Cross",
-      "text": "✠\nIn the name of the Father,\nand of the Son,\nand of the Holy Spirit,\n\nAmen.",
+      "text": "✠ In the name of the Father,\nand of the Son,\nand of the Holy Spirit,\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Sign of the Cross",
-      "text": "✠\nIn nomine Patris,\net Filii,\net Spiritus Sancti.\n\nAmen.",
+      "text": "✠ In nomine Patris,\net Filii,\net Spiritus Sancti.\n\nAmen.",
       "language": "Latin"
     },
     {
@@ -91,8 +91,13 @@
       "language": "Latin"
     },
     {
-      "name": "Entrance Antiphon, Psalm 70",
-      "text": "O God, come to my assistance.\n\nO Lord, make haste to help me.",
+      "name": "O God, come to my assistance...",
+      "text": "✠ O God, come to my assistance.\n\nO Lord, make haste to help me.",
+      "language": "English"
+    },
+    {
+      "name": "O God, come to my assistance...",
+      "text": "✠ Deus in adjutorium meum intende.\n\nDomine, ad adiuvandum me festina.",
       "language": "English"
     }
   ]

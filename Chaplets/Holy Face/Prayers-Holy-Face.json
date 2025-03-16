@@ -1,0 +1,34 @@
+{
+  "prayers": [
+    {
+      "name": "My Jesus, mercy!",
+      "text": "My Jesus, mercy!",
+      "language": "English"
+    },
+    {
+      "name": "My Jesus, mercy!",
+      "text": "O mi Jesu misericordia!",
+      "language": "Latin"
+    },
+    {
+      "name": "Arise, O Lord...",
+      "text": "Arise, O Lord, and let Thy enemies be scattered, and let all who hate Thee flee before Thy Face!",
+      "language": "English"
+    },
+    {
+      "name": "Arise, O Lord...",
+      "text": "Surge Domine et dissipentur inimici Tui et fugiant qui oderunt Te a Facie Tua.",
+      "language": "Latin"
+    },
+    {
+      "name": "O God, our Protector...",
+      "text": "O God, our Protector, look down upon us and cast Thine eyes upon the Face of Thy Christ!",
+      "language": "English"
+    },
+    {
+      "name": "O God, our Protector...",
+      "text": "Protector noster, aspice, Deus, et respice in Faciem Christi Tui.",
+      "language": "Latin"
+    }
+  ]
+}

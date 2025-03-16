@@ -1,0 +1,69 @@
+{
+  "mysteries": [
+    {
+      "name": "Touch",
+      "description": "In honor of Jesus' sense of Touch",
+      "imageURL": null,
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Hearing",
+      "description": "In honor of Jesus' sense of Hearing",
+      "imageURL": null,
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Sight",
+      "description": "In honor of Jesus' sense of Sight",
+      "imageURL": null,
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Smell",
+      "description": "In honor of Jesus' sense of Smell",
+      "imageURL": null,
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Taste",
+      "description": "In honor of Jesus' sense of Taste",
+      "imageURL": null,
+      "reflections": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
