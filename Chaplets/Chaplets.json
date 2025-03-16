@@ -23,7 +23,7 @@
           "json": "Rosary-Mysteries-Glorious.json"
         }
       ],
-      "imageURL": "https://sdcason.com/content/images/size/w1600/2022/08/DP356939-3.jpg"
+      "imageURL": "https://www.clker.com/cliparts/5/f/c/e/15168086261686134040assumption-of-the-blessed-virgin-mary-clipart.med.png"
     },
     {
       "id": 1,
@@ -36,7 +36,7 @@
           "json": "Rosary-Mysteries-All.json"
         }
       ],
-      "imageURL": "https://sdcason.com/content/images/size/w1600/2022/08/DP356939-3.jpg"
+      "imageURL": "https://www.clker.com/cliparts/5/f/c/e/15168086261686134040assumption-of-the-blessed-virgin-mary-clipart.med.png"
     },
     {
       "id": 2,
@@ -69,6 +69,19 @@
       "prayers": "Prayers-St.-Michael.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/size/w1200/2021/01/After_Guido_Reni_-_Saint_Michael-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Holy Face",
+      "json": "Chaplet-Holy-Face.json",
+      "prayers": "Prayers-Holy-Face.json",
+      "mysterySets": [
+        {
+          "name": "All",
+          "json": "Holy-Face-Mysteries.json"
+        }
+      ],
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Holy_Face_of_Jesus_from_Shroud_of_Turin_%281909%29.jpg/942px-Holy_Face_of_Jesus_from_Shroud_of_Turin_%281909%29.jpg?20190914064640"
     }
   ]
 }
