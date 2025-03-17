@@ -43,7 +43,17 @@
     {
       "prayer": "Our Father",
       "type": "small bead",
-      "repetitions": 4
+      "repetitions": 4,
+      "mystery": {
+        "name": "-",
+        "description": "In honor of the Angels",
+        "reflections": [
+          "In honor of St. Michael the Archangel",
+          "In honor of St. Gabriel the Archangel",
+          "In honor of St. Raphael the Archangel",
+          "In honor of your Guardian Archangel"
+        ]
+      }
     },
     {
       "prayer": null,

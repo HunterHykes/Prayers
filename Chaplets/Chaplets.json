@@ -77,7 +77,7 @@
       "prayers": "Prayers-Holy-Face.json",
       "mysterySets": [
         {
-          "name": "All",
+          "name": "Senses",
           "json": "Holy-Face-Mysteries.json"
         }
       ],
