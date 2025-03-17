@@ -44,12 +44,17 @@
       "prayer": "Our Father",
       "type": "small bead",
       "repetitions": 4,
-      "meditations": [
-        "In honor of St. Michael the Archangel",
-        "In honor of St. Gabriel the Archangel",
-        "In honor of St. Raphael the Archangel",
-        "In honor of your Guardian Archangel"
-      ]
+      "mystery": {
+        "name": "In Honor of the Angels",
+        "description": "",
+        "reflections": [
+          "In honor of St. Michael the Archangel",
+          "In honor of St. Gabriel the Archangel",
+          "In honor of St. Raphael the Archangel",
+          "In honor of your Guardian Archangel"
+        ],
+        "imageURL": null
+      }
     },
     {
       "prayer": null,

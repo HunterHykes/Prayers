@@ -64,15 +64,15 @@
       "subsets" : null,
       "mystery": {
         "name": "The Seven Last Words",
-        "description": "Meditate on the final words of Jesus Christ on the cross.",
+        "description": "The final words of Jesus Christ on the cross.",
         "reflections": [
-          "Father, forgive them, for they know not what they do.",
-          "Truly, I say to you, today you will be with me in Paradise.",
-          "Woman, behold your son. Son, behold your mother.",
-          "My God, my God, why have you forsaken me?",
-          "I thirst.",
-          "It is finished.",
-          "Father, into your hands I commend my spirit."
+          "\\\"Father, forgive them, for they know not what they do.\\\"",
+          "\\\"Truly, I say to you, today you will be with me in Paradise.\\\"",
+          "\\\"Woman, behold your son. Son, behold your mother.\\\"",
+          "\\\"My God, my God, why have you forsaken me?\\\"",
+          "\\\"I thirst.\\\"",
+          "\\\"It is finished.\\\"",
+          "\\\"Father, into your hands I commend my spirit.\\\""
         ],
         "imageURL": null
       }
