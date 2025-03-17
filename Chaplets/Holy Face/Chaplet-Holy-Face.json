@@ -59,7 +59,7 @@
     },
     {
       "prayer": "Glory Be",
-      "type": "none",
+      "type": "sequence",
       "repetitions": 7,
       "subsets" : null,
       "meditations": [
