@@ -3,7 +3,7 @@
     {
       "type": "crucifix",
       "repetitions": 1,
-      "prayerSet": [
+      "prayerList": [
         [
           {
             "prayer": "Sign of the Cross",
@@ -19,7 +19,7 @@
     {
       "type": "large bead",
       "repetitions": 1,
-      "prayerSet": [
+      "prayerList": [
         [
           {
             "prayer": "Our Father",
@@ -31,7 +31,7 @@
     {
       "type": "small bead",
       "repetitions": 3,
-      "prayerSet": [
+      "prayerList": [
         [
           {
             "prayer": "Hail Mary",
@@ -43,7 +43,7 @@
     {
       "type": "large bead",
       "repetitions": 1,
-      "prayerSet": [
+      "prayerList": [
         [
           {
             "prayer": "Glory Be",
@@ -55,12 +55,12 @@
     {
       "type": "sequence",
       "repetitions": 5,
-      "prayerSet": null,
+      "prayerList": null,
       "subelements": [
         {
           "type": "large bead",
           "repetitions": 1,
-          "prayerSet": [
+          "prayerList": [
             [
               {
                 "prayer": "Our Father",
@@ -72,7 +72,7 @@
         {
           "type": "small bead",
           "repetitions": 10,
-          "prayerSet": [
+          "prayerList": [
             [
               {
                 "prayer": "Hail Mary",
@@ -84,7 +84,7 @@
         {
           "type": "chain",
           "repetitions": 1,
-          "prayerSet": [
+          "prayerList": [
             [
               {
                 "prayer": "Glory Be",
@@ -96,7 +96,7 @@
         {
           "type": "chain",
           "repetitions": 1,
-          "prayerSet": [
+          "prayerList": [
             [
               {
                 "prayer": "Fatima Prayer",
@@ -110,7 +110,7 @@
     {
       "type": "none",
       "repetitions": 1,
-      "prayerSet": [
+      "prayerList": [
         [
           {
             "prayer": "Hail Holy Queen",
@@ -122,7 +122,7 @@
     {
       "type": "none",
       "repetitions": 1,
-      "prayerSet": [
+      "prayerList": [
         [
           {
             "prayer": "St. Michael Prayer",
@@ -134,7 +134,7 @@
     {
       "type": "none",
       "repetitions": 1,
-      "prayerSet": [
+      "prayerList": [
         [
           {
             "prayer": "Sign of the Cross",
