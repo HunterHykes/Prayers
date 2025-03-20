@@ -24,8 +24,15 @@
     },
     {
       "prayer": null,
+      "type": "medal",
+      "repetitions": 1,
+      "sharedBeadId": "medal-1"
+    },
+    {
+      "prayer": null,
       "type": "small bead",
-      "repetitions": 3
+      "repetitions": 3,
+      "sharedBeadId": "small-3"
     },
     {
       "prayer": null,
@@ -60,7 +67,7 @@
       "prayer": "Arise, O Lord...",
       "type": "none",
       "repetitions": 3,
-      "subsets" : null
+      "sharedBeadId": "small-3"
     },
     {
       "prayer": "Glory Be",
