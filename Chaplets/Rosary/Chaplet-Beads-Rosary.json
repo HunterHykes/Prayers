@@ -1,5 +1,5 @@
 {
-  "ChapletElement": [
+  "chapletElements": [
     {
       "type": "crucifix",
       "repetitions": 1,
@@ -56,7 +56,7 @@
       "type": "sequence",
       "repetitions": 5,
       "prayerSet": null,
-      "subsets": [
+      "subelements": [
         {
           "type": "large bead",
           "repetitions": 1,
