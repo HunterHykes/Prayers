@@ -20,7 +20,12 @@
           "repetitions": 1
         }
       ],
-      "repetitions": 1,
+      "repetitions": 1
+    },
+    {
+      "prayer": null,
+      "type": "small bead",
+      "repetitions": 3
     },
     {
       "prayer": null,
