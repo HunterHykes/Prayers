@@ -5,14 +5,8 @@
       "repetitions": 1,
       "prayerList": [
         [
-          {
-            "prayer": "Sign of the Cross",
-            "repetitions": 1
-          },
-          {
-            "prayer": "Apostles' Creed",
-            "repetitions": 1
-          }
+          "Sign of the Cross",
+          "Apostles' Creed"
         ]
       ]
     },
@@ -21,10 +15,7 @@
       "repetitions": 1,
       "prayerList": [
         [
-          {
-            "prayer": "Our Father",
-            "repetitions": 1
-          }
+          "Our Father"
         ]
       ]
     },
@@ -33,10 +24,7 @@
       "repetitions": 3,
       "prayerList": [
         [
-          {
-            "prayer": "Hail Mary",
-            "repetitions": 1
-          }
+          "Hail Mary"
         ]
       ]
     },
@@ -45,10 +33,7 @@
       "repetitions": 1,
       "prayerList": [
         [
-          {
-            "prayer": "Glory Be",
-            "repetitions": 1
-          }
+          "Glory Be"
         ]
       ]
     },
@@ -62,10 +47,7 @@
           "repetitions": 1,
           "prayerList": [
             [
-              {
-                "prayer": "Our Father",
-                "repetitions": 1
-              }
+              "Our Father"
             ]
           ]
         },
@@ -74,10 +56,7 @@
           "repetitions": 10,
           "prayerList": [
             [
-              {
-                "prayer": "Hail Mary",
-                "repetitions": 1
-              }
+              "Hail Mary"
             ]
           ]
         },
@@ -86,10 +65,7 @@
           "repetitions": 1,
           "prayerList": [
             [
-              {
-                "prayer": "Glory Be",
-                "repetitions": 1
-              }
+              "Glory Be"
             ]
           ]
         },
@@ -98,10 +74,7 @@
           "repetitions": 1,
           "prayerList": [
             [
-              {
-                "prayer": "Fatima Prayer",
-                "repetitions": 1
-              }
+              "Fatima Prayer"
             ]
           ]
         }
@@ -112,10 +85,7 @@
       "repetitions": 1,
       "prayerList": [
         [
-          {
-            "prayer": "Hail Holy Queen",
-            "repetitions": 1
-          }
+          "Hail Holy Queen"
         ]
       ]
     },
@@ -124,10 +94,7 @@
       "repetitions": 1,
       "prayerList": [
         [
-          {
-            "prayer": "St. Michael Prayer",
-            "repetitions": 1
-          }
+          "St. Michael Prayer"
         ]
       ]
     },
@@ -136,10 +103,7 @@
       "repetitions": 1,
       "prayerList": [
         [
-          {
-            "prayer": "Sign of the Cross",
-            "repetitions": 1
-          }
+          "Sign of the Cross"
         ]
       ]
     }
