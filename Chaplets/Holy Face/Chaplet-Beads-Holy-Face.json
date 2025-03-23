@@ -1,0 +1,89 @@
+{
+  "chapletElements": [
+    {
+      "type": "crucifix",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross",
+          "O God, come to my assistance...",
+          "Glory Be"
+        ],
+        [
+          "Golden Arrow",
+          "Sign of the Cross"
+        ]
+      ]
+    },
+    {
+      "type": "medal",
+      "repetitions": 1,
+      "prayerList": [
+        [],
+        [
+          "O God, our Protector..."
+        ]
+      ]
+    },
+    {
+      "type": "none",
+      "repetitions": 7,
+      "prayerList": [
+        [],
+        [
+          "Glory Be"
+        ]
+      ],
+      "mysteries": {
+        "name": "The Seven Last Words",
+        "description": "The final words of Jesus Christ on the cross.",
+        "reflections": [
+          "\"Father, forgive them, for they know not what they do.\"",
+          "\"Truly, I say to you, today you will be with me in Paradise.\"",
+          "\"Woman, behold your son. Son, behold your mother.\"",
+          "\"My God, my God, why have you forsaken me?\"",
+          "\"I thirst.\"",
+          "\"It is finished.\"",
+          "\"Father, into your hands I commend my spirit.\""
+        ],
+        "imageURL": null
+      }
+    },
+    {
+      "type": "small bead",
+      "repetitions": 3,
+      "prayerList": [
+        [],
+        [
+          "Arise, O Lord..."
+        ]
+      ]
+    },
+    {
+      "type": "sequence",
+      "repetitions": 5,
+      "prayerList": null,
+      "subelements": [
+        {
+          "type": "large bead",
+          "repetitions": 1,
+          "prayerList": [
+            [
+              "My Jesus, mercy!",
+              "Glory Be"
+            ]
+          ]
+        },
+        {
+          "type": "small bead",
+          "repetitions": 6,
+          "prayerList": [
+            [
+              "Arise, O Lord..."
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
