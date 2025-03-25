@@ -49,6 +49,18 @@
       ]
     },
     {
+      "type": "small bead",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Apostles' Creed"
+        ],
+        [
+          "Holy God (Trisagion)"
+        ]
+      ]
+    },
+    {
       "type": "sequence",
       "repetitions": 5,
       "prayerList": null,
