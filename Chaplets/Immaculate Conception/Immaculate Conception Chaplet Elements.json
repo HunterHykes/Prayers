@@ -1,0 +1,63 @@
+{
+  "chapletElements": [
+    {
+      "type": "medal",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "sequence",
+      "repetitions": 3,
+      "prayerList": null,
+      "intentions": ["First Intention", "Second Intention", "Third Intention"],
+      "subelements": [
+        {
+          "type": "large bead",
+          "repetitions": 1,
+          "prayerList": [
+            [
+              "Our Father"
+            ],
+            []
+          ]
+        },
+        {
+          "type": "small bead",
+          "repetitions": 4,
+          "prayerList": [
+            [
+              "Hail Mary",
+              "Immaculate Conception Prayer"
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chain",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Glory Be"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "none",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross"
+        ],
+        []
+      ]
+    }
+  ]
+}

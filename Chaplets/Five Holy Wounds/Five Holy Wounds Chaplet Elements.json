@@ -1,0 +1,98 @@
+{
+  "chapletElements": [
+    {
+      "type": "crucifix",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross",
+          "Divine Redeemer"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "small bead",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "O Powerful God"
+        ],
+        [
+          "Eternal Father"
+        ]
+      ]
+    },
+    {
+      "type": "small bead",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Pardon and Mercy"
+        ],
+        [
+          "Eternal Father"
+        ]
+      ]
+    },
+    {
+      "type": "small bead",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "O Eternal Father"
+        ],
+        [
+          "Eternal Father"
+        ]
+      ]
+    },
+    {
+      "type": "sequence",
+      "repetitions": 5,
+      "prayerList": null,
+      "subelements": [
+        {
+          "type": "large bead",
+          "repetitions": 1,
+          "prayerList": [
+            [
+              "Eternal Father"
+            ],
+            []
+          ]
+        },
+        {
+          "type": "small bead",
+          "repetitions": 10,
+          "prayerList": [
+            [
+              "My Jesus"
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chain",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Glory Be"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "none",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross"
+        ],
+        []
+      ]
+    }
+  ]
+}

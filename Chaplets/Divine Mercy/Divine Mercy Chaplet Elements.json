@@ -1,0 +1,99 @@
+{
+  "chapletElements": [
+    {
+      "type": "crucifix",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "large bead",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "St. Faustina's Prayer for Sinners",
+          "Divine Mercy, Opening Prayer",
+          "O Blood and Water",
+          "O Blood and Water",
+          "O Blood and Water"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "small bead",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Our Father"
+        ],
+        [
+          "Holy God (Trisagion)"
+        ]
+      ]
+    },
+    {
+      "type": "small bead",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Hail Mary"
+        ],
+        [
+          "Holy God (Trisagion)"
+        ]
+      ]
+    },
+    {
+      "type": "sequence",
+      "repetitions": 5,
+      "prayerList": null,
+      "subelements": [
+        {
+          "type": "large bead",
+          "repetitions": 1,
+          "prayerList": [
+            [
+              "Eternal Father"
+            ],
+            []
+          ]
+        },
+        {
+          "type": "small bead",
+          "repetitions": 10,
+          "prayerList": [
+            [
+              "For the Sake of His Sorrowful Passion"
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "type": "none",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Divine Mercy, Closing Prayer"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "none",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross"
+        ],
+        []
+      ]
+    }
+  ]
+}

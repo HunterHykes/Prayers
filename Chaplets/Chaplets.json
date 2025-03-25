@@ -3,32 +3,7 @@
     {
       "id": 0,
       "name": "Rosary",
-      "json": "Chaplet-Beads-Rosary.json",
-      "prayers": null,
-      "mysterySets": [
-        {
-          "name": "Joyful",
-          "json": "Rosary-Mysteries-Joyful.json"
-        },
-        {
-          "name": "Luminous",
-          "json": "Rosary-Mysteries-Luminous.json"
-        },
-        {
-          "name": "Sorrowful",
-          "json": "Rosary-Mysteries-Sorrowful.json"
-        },
-        {
-          "name": "Glorious",
-          "json": "Rosary-Mysteries-Glorious.json"
-        }
-      ],
-      "imageURL": "https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3BkbWlzY3Byb2plY3QyNy13Y3J0dzlmcjU4LWltYWdlXzEuanBn.jpg"
-    },
-    {
-      "id": 1,
-      "name": "Rosary",
-      "json": "Chaplet-Rosary.json",
+      "json": "Rosary Chaplet Elements.json",
       "prayers": null,
       "mysterySets": [
         {
@@ -53,7 +28,7 @@
     {
       "id": 2,
       "name": "Divine Mercy",
-      "json": "Chaplet-Divine-Mercy.json",
+      "json": "Divine Mercy Chaplet Elements.json",
       "prayers": "Prayers-Divine-Mercy.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/2022/10/Divine_Mercy.jpeg"
@@ -61,7 +36,7 @@
     {
       "id": 3,
       "name": "Immaculate Conception",
-      "json": "Chaplet-Immaculate-Conception.json",
+      "json": "Immaculate Conception Chaplet Elements.json",
       "prayers": "Prayers-Immaculate-Conception.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/size/w1600/2022/12/303775rgsdl.jpg"
@@ -69,7 +44,7 @@
     {
       "id": 4,
       "name": "Five Holy Wounds",
-      "json": "Chaplet-Five-Holy-Wounds.json",
+      "json": "Five Holy Wounds Chaplet Elements.json",
       "prayers": "Prayers-Five-Holy-Wounds.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/size/w1200/2021/06/1996.26_o2-1.jpg"
@@ -77,7 +52,7 @@
     {
       "id": 5,
       "name": "St. Michael",
-      "json": "Chaplet-St.-Michael.json",
+      "json": "St. Michael Chaplet Elements.json",
       "prayers": "Prayers-St.-Michael.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/size/w1200/2021/01/After_Guido_Reni_-_Saint_Michael-1.jpg"
@@ -85,7 +60,7 @@
     {
       "id": 6,
       "name": "Holy Face",
-      "json": "Chaplet-Beads-Holy-Face.json",
+      "json": "Holy Face Chaplet Elements.json",
       "prayers": "Prayers-Holy-Face.json",
       "mysterySets": [
         {

@@ -1,0 +1,86 @@
+{
+  "chapletElements": [
+    {
+      "type": "medal",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross",
+          "O God, come to my assistance...",
+          "Glory Be"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "small bead",
+      "repetitions": 4,
+      "prayerList": [
+        [],
+        [
+          "Our Father"
+        ]
+      ],
+      "mysteries": {
+        "name": "In Honor of the Angels",
+        "description": "",
+        "reflections": [
+          "In honor of St. Michael the Archangel",
+          "In honor of St. Gabriel the Archangel",
+          "In honor of St. Raphael the Archangel",
+          "In honor of your Guardian Archangel"
+        ],
+        "imageURL": null
+      }
+    },
+    {
+      "type": "sequence",
+      "repetitions": 9,
+      "prayerList": null,
+      "intentions": ["First Salutation", "Second Salutation", "Third Salutation", "Fourth Salutation", "Fifth Salutation", "Sixth Salutation", "Seventh Salutation", "Eighth Salutation", "Ninth Salutation"],
+      "subelements": [
+        {
+          "type": "large bead",
+          "repetitions": 1,
+          "prayerList": [
+            [
+              "Our Father"
+            ],
+            []
+          ]
+        },
+        {
+          "type": "small bead",
+          "repetitions": 3,
+          "prayerList": [
+            [
+              "Hail Mary"
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "type": "none",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "O glorious prince...",
+          "Almighty and Everlasting God..."
+        ],
+        []
+      ]
+    },
+    {
+      "type": "none",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross"
+        ],
+        []
+      ]
+    }
+  ]
+}
