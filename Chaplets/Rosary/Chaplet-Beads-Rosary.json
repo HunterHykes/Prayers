@@ -7,7 +7,8 @@
         [
           "Sign of the Cross",
           "Apostles' Creed"
-        ]
+        ],
+        []
       ]
     },
     {
@@ -16,7 +17,8 @@
       "prayerList": [
         [
           "Our Father"
-        ]
+        ],
+        []
       ]
     },
     {
@@ -25,7 +27,8 @@
       "prayerList": [
         [
           "Hail Mary"
-        ]
+        ],
+        []
       ]
     },
     {
@@ -34,7 +37,8 @@
       "prayerList": [
         [
           "Glory Be"
-        ]
+        ],
+        []
       ]
     },
     {
@@ -48,7 +52,8 @@
           "prayerList": [
             [
               "Our Father"
-            ]
+            ],
+            []
           ]
         },
         {
@@ -57,7 +62,8 @@
           "prayerList": [
             [
               "Hail Mary"
-            ]
+            ],
+            []
           ]
         },
         {
@@ -66,7 +72,8 @@
           "prayerList": [
             [
               "Glory Be"
-            ]
+            ],
+            []
           ]
         },
         {
@@ -75,7 +82,8 @@
           "prayerList": [
             [
               "Fatima Prayer"
-            ]
+            ],
+            []
           ]
         }
       ]
@@ -86,7 +94,8 @@
       "prayerList": [
         [
           "Hail Holy Queen"
-        ]
+        ],
+        []
       ]
     },
     {
@@ -95,7 +104,8 @@
       "prayerList": [
         [
           "St. Michael Prayer"
-        ]
+        ],
+        []
       ]
     },
     {
@@ -104,7 +114,8 @@
       "prayerList": [
         [
           "Sign of the Cross"
-        ]
+        ],
+        []
       ]
     }
   ]
