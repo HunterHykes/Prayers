@@ -2,12 +2,12 @@
   "prayers": [
     {
       "name": "Sign of the Cross",
-      "text": "✠ In the name of the Father,\nand of the Son,\nand of the Holy Spirit,\n\nAmen.",
+      "text": "✠\nIn the name of the Father,\nand of the Son,\nand of the Holy Spirit,\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Sign of the Cross",
-      "text": "✠ In nomine Patris,\net Filii,\net Spiritus Sancti.\n\nAmen.",
+      "text": "✠\nIn nomine Patris,\net Filii,\net Spiritus Sancti.\n\nAmen.",
       "language": "Latin"
     },
     {
@@ -78,6 +78,16 @@
     {
       "name": "St. Michael Prayer",
       "text": "Sancte Michael Archangele,\ndefende nos in proelio;\ncontra nequitiam et insidias diaboli esto praesidium.\nImperet illi Deus, supplices deprecamur:\ntuque, Princeps militiae caelestis,\nSatanam aliosque spiritus malignos,\nqui ad perditionem animarum pervagantur in mundo,\ndivina virtute, in infernum detrude.\n\nAmen.",
+      "language": "Latin"
+    },
+    {
+      "name": "The Divine Praises",
+      "text": "Blessed be God.\nBlessed be His Holy Name.\nBlessed be Jesus Christ, true God and true Man.\nBlessed be the Name of Jesus.\nBlessed be His Most Sacred Heart.\nBlessed be His Most Precious Blood.\nBlessed be Jesus in the Most Holy Sacrament of the Altar.\nBlessed be the Holy Spirit, the Paraclete.\nBlessed be the great Mother of God, Mary most Holy.\nBlessed be her Holy and Immaculate Conception.\nBlessed be her Glorious Assumption.\nBlessed be the name of Mary, Virgin and Mother.\nBlessed be St. Joseph, her most chaste spouse.\nBlessed be God in His Angels and in His Saints.",
+      "language": "English"
+    },
+    {
+      "name": "The Divine Praises",
+      "text": "Benedictus Deus.\nBenedictum Nomen Sanctum eius.\nBenedictus Iesus Christus, verus Deus et verus homo.\nBenedictum Nomen Iesu.\nBenedictum Cor eius Sacratissimum.\nBenedictus Sanguis eius Pretiosissimus.\nBenedictus Iesus in Sanctissimo Altaris Sacramento.\nBenedictus Sanctus Spiritus, Paraclitus.\nBenedicta excelsa Mater Dei, Maria sanctissima.\nBenedicta sancta eius et Immaculata Conceptio.\nBenedicta eius gloriosa Assumptio.\nBenedictum nomen Mariae, Virginis et Matris.\nBenedictus sanctus Ioseph, eius castissimus Sponsus.\nBenedictus Deus in Angelis suis, et in Sanctis suis.",
       "language": "Latin"
     },
     {
