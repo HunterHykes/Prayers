@@ -29,7 +29,7 @@
       "id": 2,
       "name": "Divine Mercy",
       "json": "Divine Mercy Chaplet Elements.json",
-      "prayers": "Prayers-Divine-Mercy.json",
+      "prayers": "Divine Mercy Prayers.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/2022/10/Divine_Mercy.jpeg"
     },
@@ -37,7 +37,7 @@
       "id": 3,
       "name": "Immaculate Conception",
       "json": "Immaculate Conception Chaplet Elements.json",
-      "prayers": "Prayers-Immaculate-Conception.json",
+      "prayers": "Immaculate Conception Prayers.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/size/w1600/2022/12/303775rgsdl.jpg"
     },
@@ -45,7 +45,7 @@
       "id": 4,
       "name": "Five Holy Wounds",
       "json": "Five Holy Wounds Chaplet Elements.json",
-      "prayers": "Prayers-Five-Holy-Wounds.json",
+      "prayers": "Five Holy Wounds Prayers.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/size/w1200/2021/06/1996.26_o2-1.jpg"
     },
@@ -53,7 +53,7 @@
       "id": 5,
       "name": "St. Michael",
       "json": "St. Michael Chaplet Elements.json",
-      "prayers": "Prayers-St.-Michael.json",
+      "prayers": "St. Michael Prayers.json",
       "mysterySets": null,
       "imageURL": "https://sdcason.com/content/images/size/w1200/2021/01/After_Guido_Reni_-_Saint_Michael-1.jpg"
     },
@@ -61,7 +61,7 @@
       "id": 6,
       "name": "Holy Face",
       "json": "Holy Face Chaplet Elements.json",
-      "prayers": "Prayers-Holy-Face.json",
+      "prayers": "Holy Face Prayers.json",
       "mysterySets": [
         {
           "name": "Senses",
