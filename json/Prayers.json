@@ -22,32 +22,32 @@
     },
     {
       "name": "Our Father",
-      "text": "Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done  on earth, as it is in heaven. Give us this day  our daily bread, and forgive us our trespasses,  as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.\n\nAmen.",
+      "text": "Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done  on earth, as it is in heaven.\nGive us this day  our daily bread, and forgive us our trespasses,  as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Our Father",
-      "text": "Pater noster, qui es in caelis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in caelo, et in terra.\n\nPanem nostrum quotidianum da nobis hodie, et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos a malo.\n\nAmen.",
+      "text": "Pater noster, qui es in caelis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in caelo, et in terra.\nPanem nostrum quotidianum da nobis hodie, et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos a malo.\n\nAmen.",
       "language": "Latin"
     },
     {
       "name": "Hail Mary",
-      "text": "Hail, Mary, full of grace, the Lord is with thee. Blessed art thou amongst women and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.\n\nAmen.",
+      "text": "Hail, Mary, full of grace, the Lord is with thee. Blessed art thou amongst women and blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God, pray for us sinners, now and at the hour of our death.\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Hail Mary",
-      "text": "Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus.\n\nSancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae.\n\nAmen.",
+      "text": "Ave Maria, gratia plena, Dominus tecum. Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus.\nSancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae.\n\nAmen.",
       "language": "Latin"
     },
     {
       "name": "Glory Be",
-      "text": "Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end.\n\nAmen.",
+      "text": "Glory be to the Father, and to the Son, and to the Holy Spirit.\nAs it was in the beginning, is now, and ever shall be, world without end.\n\nAmen.",
       "language": "English"
     },
     {
       "name": "Glory Be",
-      "text": "Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\n\nAmen.",
+      "text": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\n\nAmen.",
       "language": "Latin"
     },
     {
