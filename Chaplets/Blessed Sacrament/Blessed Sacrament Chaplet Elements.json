@@ -1,0 +1,42 @@
+{
+  "chapletElements": [
+    {
+      "type": "medal",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross",
+          "Spiritual Communion Prayer"
+        ],
+        []
+      ]
+    },
+    {
+      "type": "sequence",
+      "repetitions": 1,
+      "prayerList": null,
+      "subelements": [
+        {
+          "type": "small bead",
+          "repetitions": 33,
+          "prayerList": [
+            [
+              "Invocation to the Blessed Sacrament"
+            ],
+            []
+          ]
+        }
+      ]
+    },
+    {
+      "type": "none",
+      "repetitions": 1,
+      "prayerList": [
+        [
+          "Sign of the Cross"
+        ],
+        []
+      ]
+    }
+  ]
+}

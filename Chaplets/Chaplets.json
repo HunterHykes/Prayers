@@ -69,6 +69,14 @@
         }
       ],
       "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Holy_Face_of_Jesus_from_Shroud_of_Turin_%281909%29.jpg/942px-Holy_Face_of_Jesus_from_Shroud_of_Turin_%281909%29.jpg?20190914064640"
+    },
+    {
+      "id": 7,
+      "name": "Blessed Sacrament",
+      "json": "Blessed Sacrament Chaplet Elements.json",
+      "prayers": "Blessed Sacrament Prayers.json",
+      "mysterySets": null,
+      "imageURL": null
     }
   ]
 }

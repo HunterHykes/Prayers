@@ -1,0 +1,24 @@
+{
+  "prayers": [
+    {
+      "name": "Spiritual Communion Prayer",
+      "text": "As I cannot now receive Thee, my Jesus, in Holy Communion, come, spiritually into my heart, and make it Thine own forever.",
+      "language": "English"
+    },
+    {
+      "name": "Spiritual Communion Prayer",
+      "text": "Cum Te, Iesu meus, nunc in Sancta Communione recipere non possim, veni spiritualiter in cor meum et fac illud Tuum in aeternum.",
+      "language": "Latin"
+    },
+    {
+      "name": "Invocation to the Blessed Sacrament",
+      "text": "Jesus in the Blessed Sacrament on the altar have mercy on us!",
+      "language": "English"
+    },
+    {
+      "name": "Invocation to the Blessed Sacrament",
+      "text": "Iesu in Sanctissimo Sacramento super altare, miserere nobis!",
+      "language": "Latin"
+    }
+  ]
+}
